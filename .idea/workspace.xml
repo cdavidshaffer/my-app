@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd1b29f7-3268-4e91-90b7-d67671691627" name="Changes" comment="Modified message">
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/au/cpsc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/au/cpsc/App.java" afterDir="false" />
+    <list default="true" id="cd1b29f7-3268-4e91-90b7-d67671691627" name="Changes" comment="Modified message again!">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Got cowsay working!" />
     <MESSAGE value="Modified message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modified message" />
+    <MESSAGE value="Modified message again!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified message again!" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
