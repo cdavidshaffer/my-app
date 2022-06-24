@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd1b29f7-3268-4e91-90b7-d67671691627" name="Changes" comment="Got cowsay working!">
+    <list default="true" id="cd1b29f7-3268-4e91-90b7-d67671691627" name="Changes" comment="Modified message">
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/au/cpsc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/au/cpsc/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Got cowsay working!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Got cowsay working!" />
+    <MESSAGE value="Modified message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified message" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
