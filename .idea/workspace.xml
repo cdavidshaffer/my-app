@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd1b29f7-3268-4e91-90b7-d67671691627" name="Changes" comment="Changed version of junit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="cd1b29f7-3268-4e91-90b7-d67671691627" name="Changes" comment="Merged dependabot change">
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/au/cpsc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/au/cpsc/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,8 @@
     <MESSAGE value="Modified message" />
     <MESSAGE value="Modified message again!" />
     <MESSAGE value="Changed version of junit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed version of junit" />
+    <MESSAGE value="Merged dependabot change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merged dependabot change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
