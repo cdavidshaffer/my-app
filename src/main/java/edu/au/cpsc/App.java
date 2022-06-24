@@ -10,6 +10,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println(Cowsay.say( new String[] {"-f", "dragon", "Hello World!"} ));
+        System.out.println(Cowsay.say( new String[] {"-f", "dragon", "Goodbye World!"} ));
     }
 }
